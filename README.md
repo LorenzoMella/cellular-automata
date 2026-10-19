@@ -1,12 +1,12 @@
 # Small 2D Cellular Automata
 
-Three small applications that allow experimenting with 2D cellular automata rules similar to (and including) [https://en.wikipedia.org/wiki/Conway's_Game_of_Life](Conway's Game of Life).
+Three small applications that allow experimenting with 2D cellular automata rules similar to (and including) [Conway's Game Of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
 
-The rationale for making this was that I set for myself a personal challenge to build a program with a [https://github.com/ocornut/imgui](Dear ImGui) interface in a few-hour timeframe. This was easily accomplished using the sleek [https://www.raylib.com/](Raylib) library and its unofficial Raylib backend for ImGui ([https://github.com/raylib-extras/rlImGui/tree/main](rlImGui)).
+The rationale for making this was that I set for myself a personal challenge to build a program with a [Dear ImGui](https://github.com/ocornut/imgui/) interface in a few-hour timeframe. This was easily accomplished using the sleek [Raylib](https://www.raylib.com/) library and its unofficial Raylib backend for ImGui ([rlImGui](https://github.com/raylib-extras/rlImGui/tree/main/]).
 
 ## Build (Linux)
 
-Build with [https://cmake.org/](CMake):
+Build with [CMake](https://cmake.org/):
 
 ```sh
 cd cellular-automata  # i.e., the directory where this file is located
