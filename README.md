@@ -9,7 +9,7 @@ The rationale for making this was that I set for myself a personal challenge to 
 Build with [https://cmake.org/](CMake):
 
 ```sh
-cd 2d-cellular-automata  # i.e., the directory where this file is located
+cd cellular-automata  # i.e., the directory where this file is located
 cmake -B build
 cmake --build build
 ```
