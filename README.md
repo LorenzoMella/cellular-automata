@@ -2,7 +2,7 @@
 
 Three small applications that allow experimenting with 2D cellular automata rules similar to (and including) [Conway's Game Of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
 
-The rationale for making this was that I set for myself a personal challenge to build a program with a [Dear ImGui](https://github.com/ocornut/imgui/) interface in a few-hour timeframe. This was easily accomplished using the sleek [Raylib](https://www.raylib.com/) library and its unofficial Raylib backend for ImGui ([rlImGui](https://github.com/raylib-extras/rlImGui/tree/main/]).
+The rationale for making this was that I set for myself a personal challenge to build a program with a [Dear ImGui](https://github.com/ocornut/imgui/) interface in a few-hour timeframe. This was easily accomplished using the sleek [Raylib](https://www.raylib.com/) library and its unofficial Raylib backend for ImGui ([rlImGui](https://github.com/raylib-extras/rlImGui/tree/main/)).
 
 ## Build (Linux)
 

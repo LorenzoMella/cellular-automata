@@ -25,7 +25,6 @@ set(BUILD_SHARED_LIBS       OFF CACHE INTERNAL "")
 set(BUILD_STATIC_LIBS        ON CACHE INTERNAL "")
 set(SUPPORT_GESTURES_SYSTEM OFF CACHE INTERNAL "")
 if(CMAKE_BUILD_TYPE STREQUAL Release)
-  # TODO How to deactivate all debug symbols in raylib?
   set(SUPPORT_TRACELOG ON)
 endif()
 
